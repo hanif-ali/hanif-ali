@@ -16,8 +16,8 @@
 - 🌱 I'm continuously learning new technologies and creating personal projects to improve my skills.
 
 
-- 💻 Technologies that I like working with: 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" height="20" valign="middle"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" height="20" valign="middle"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" height="35" valign="middle"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="20" valign="middle"> 
+- 💻 Technologies that I like to work with: 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" height="20" valign="middle"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" height="20" valign="middle"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" height="35" valign="middle"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="20" valign="middle"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="20" valign="middle"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="22" valign="middle"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="20" valign="middle"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg" height="20" valign="middle"> 
 
 
 
