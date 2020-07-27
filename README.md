@@ -2,9 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-haneefaly-gray?labelColor=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haneefaly/)](https://www.linkedin.com/in/haneefaly/)
 [![Email](https://img.shields.io/badge/Gmail-alihanif016-gray?labelColor=d44638&style=flat-square&logo=gmail&logoColor=white&link=mailto:alihanif016@gmail.com)](mailto:alihanif016@gmail.com)
 [![Portfolio Site](https://img.shields.io/badge/Portfolio-hanifali.me-gray?labelColor=black&style=flat-square&logo=google-chrome&logoColor=white&link=http://hanifali.me)](http://hanifali.me)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire Me-gray?labelColor=32cd32&style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/o/profiles/users/~01e4e24f6f1a812341/)](https://www.upwork.com/o/profiles/users/~01e4e24f6f1a812341/)
-[![Quora](https://img.shields.io/badge/Quora-Hanif Ali-gray?labelColor=red&style=flat-square&logo=Quora&link=https://quora.com/Hanif-Ali-11)](https://quora.com/Hanif-Ali-11)
-<a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
+[![Upwork](https://img.shields.io/badge/Upwork-Hire-gray?labelColor=32cd32&style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/o/profiles/users/~01e4e24f6f1a812341/)](https://www.upwork.com/o/profiles/users/~01e4e24f6f1a812341/)
+[![Quora](https://img.shields.io/badge/Quora-Hanif-gray?labelColor=red&style=flat-square&logo=Quora&link=https://quora.com/Hanif-Ali-11)](https://quora.com/Hanif-Ali-11)
 
 ### I am Hanif Ali
 
