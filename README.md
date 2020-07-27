@@ -22,6 +22,6 @@
 
 - 📫 How to reach me: Use the badges above 😃
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=hanif-ali&show_icons=true>
+<img src="https://github-readme-stats.vercel.app/api?username=hanif-ali&show_icons=true">
 
 ⭐️ From [Hanif](https://github.com/hanif-ali)
