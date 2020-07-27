@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello! 👋
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-haneefaly-gray?labelColor=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haneefaly/)](https://www.linkedin.com/in/haneefaly/)
+[![Email](https://img.shields.io/badge/Gmail-alihanif016-gray?labelColor=d44638&style=flat-square&logo=gmail&logoColor=white&link=mailto:alihanif016@gmail.com)](mailto:alihanif016@gmail.com)
+[![Portfolio Site](https://img.shields.io/badge/Portfolio-hanifali.me-gray?labelColor=black&style=flat-square&logo=google-chrome&logoColor=white&link=http://hanifali.me)](http://hanifali.me)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire Me-gray?labelColor=32cd32&style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/o/profiles/users/~01e4e24f6f1a812341/)](https://www.upwork.com/o/profiles/users/~01e4e24f6f1a812341/)
+[![Quora](https://img.shields.io/badge/Quora-Hanif Ali-gray?labelColor=red&style=flat-square&logo=Quora&link=https://quora.com/Hanif-Ali-11)](https://quora.com/Hanif-Ali-11)
+<a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
 
-<!--
-**hanif-ali/hanif-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Hanif Ali
 
-Here are some ideas to get you started:
+- 🎓 I study Software Engineering at the National University of Sciences and Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I'm a Software Developer who is passionate about Computer Science, Web Development, and Problem Solving in general.
+
+
+- 🌱 I'm continuously learning new technologies and creating personal projects to improve my skills.
+
+
+- Technologies that I like working with: 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" height="20">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" height="20">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" height="20">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" height="30">
+
+
+- 📫 How to reach me: Use the badges above 😃
+
+<br>
+![Hanif's github stats](https://github-readme-stats.vercel.app/api?username=hanif-ali&show_icons=true)
+
+⭐️ From [Hanif](https://github.com/hanif-ali)
