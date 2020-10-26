@@ -23,6 +23,8 @@
 - 🔧 Tools that I enjoy using:
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" height="25" valign="middle"> <img src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg" height="20" valign="middle"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="20" valign="middle"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Tmux_logo.svg" height="15" valign="middle"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="20" valign="middle"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="20" valign="middle"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" height="20" valign="middle"> 
 
+- 📅 Planning to Learn:  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="20" valign="middle">  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="20" valign="middle">  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="20" valign="middle">
+
 - 📫 How to reach me: Use the badges above 😃
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=hanif-ali&show_icons=true">
